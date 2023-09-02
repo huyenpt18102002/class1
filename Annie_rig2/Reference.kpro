@@ -1,0 +1,77 @@
+{
+    "_meta": {
+        "format": "kpro",
+        "version": 1
+    },
+    "folders": [
+    ],
+    "project": {
+        "notes": "",
+        "sequence_frame_rate": 24,
+        "source_root_dir": "[PROJECT_DIR]",
+        "static_frames_enabled": false
+    },
+    "sources": [
+        {
+            "_id": "{46e5241d-286c-4261-b4f7-e060e4ca18b5}",
+            "bookmarks": [
+                {
+                    "frame": 1
+                },
+                {
+                    "frame": 7
+                },
+                {
+                    "frame": 16
+                },
+                {
+                    "frame": 25
+                },
+                {
+                    "frame": 31
+                },
+                {
+                    "frame": 37
+                },
+                {
+                    "frame": 44
+                }
+            ],
+            "frame": 52,
+            "index": 0,
+            "name": "Surprised_ref.mp4",
+            "pan_interp_x": 0,
+            "pan_interp_y": 0,
+            "pan_zoom_enabled": false,
+            "path": "D:/maya/animation/class 1/Annie_rig2/Surprised_ref.mp4",
+            "range_end": 58,
+            "range_start": 1,
+            "relative_path": "Surprised_ref.mp4",
+            "viewer_index": 0,
+            "zoom": 1
+        }
+    ],
+    "timelines": [
+        {
+            "default": true,
+            "elements": [
+                {
+                    "source_id": "{46e5241d-286c-4261-b4f7-e060e4ca18b5}"
+                }
+            ],
+            "frame": 1,
+            "index": 0,
+            "name": "Default Timeline",
+            "pan_interp_x": 0,
+            "pan_interp_y": 0,
+            "pan_zoom_enabled": false,
+            "range_end": 58,
+            "range_start": 1,
+            "use_source_in_outs": true,
+            "zoom": 1
+        }
+    ],
+    "viewer": {
+        "layout": 0
+    }
+}
